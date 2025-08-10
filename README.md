@@ -1,4 +1,4 @@
-# 🌐 Sharmeen Shahmeer – Portfolio Website
+# Sharmeen Shahmeer – Portfolio Website
 
 A **personal portfolio website** built with **HTML** and **CSS** to showcase my skills, qualifications, and projects as a **Frontend Web Developer**.  
 This site features a modern, responsive design with smooth navigation and a glassmorphism-inspired UI
@@ -25,5 +25,4 @@ This site features a modern, responsive design with smooth navigation and a glas
 
 ---
 
-## 📂 Project Structure
 
